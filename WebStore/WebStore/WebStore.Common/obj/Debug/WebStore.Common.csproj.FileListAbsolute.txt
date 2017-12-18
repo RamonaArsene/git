@@ -1,0 +1,8 @@
+D:\NET\WebStore\WebStore\WebStore.Common\bin\Debug\WebStore.Common.dll
+D:\NET\WebStore\WebStore\WebStore.Common\bin\Debug\WebStore.Common.pdb
+D:\NET\WebStore\WebStore\WebStore.Common\bin\Debug\Iesi.Collections.dll
+D:\NET\WebStore\WebStore\WebStore.Common\bin\Debug\NHibernate.dll
+D:\NET\WebStore\WebStore\WebStore.Common\bin\Debug\Iesi.Collections.xml
+D:\NET\WebStore\WebStore\WebStore.Common\bin\Debug\NHibernate.xml
+D:\NET\WebStore\WebStore\WebStore.Common\obj\Debug\WebStore.Common.dll
+D:\NET\WebStore\WebStore\WebStore.Common\obj\Debug\WebStore.Common.pdb

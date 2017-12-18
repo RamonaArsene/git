@@ -1,0 +1,9 @@
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\obj\Debug\Database.V2.Tests.csprojResolveAssemblyReference.cache
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\bin\Debug\Database.V2.Tests.dll
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\bin\Debug\Database.V2.Tests.pdb
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\bin\Debug\Database.V2.exe
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\bin\Debug\Database.V2.pdb
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\obj\Debug\Database.V2.Tests.dll
+D:\Proiecte\Instruire\Proiecte\Database.V2\Database.V2.Tests\obj\Debug\Database.V2.Tests.pdb

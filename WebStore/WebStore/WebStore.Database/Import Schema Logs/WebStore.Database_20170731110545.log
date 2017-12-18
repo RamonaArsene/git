@@ -1,0 +1,77 @@
+7/31/2017 2:05:45 PM	This log contains information about the import schema operation into project 'WebStore.Database' on computer 'INTERN2017-41' by user 'Ramona.Arsene'.
+7/31/2017 2:05:45 PM	Import of database schema has started.
+7/31/2017 2:05:52 PM	Gathering database options
+7/31/2017 2:05:52 PM	Gathering users
+7/31/2017 2:05:52 PM	Gathering roles
+7/31/2017 2:05:52 PM	Gathering application roles
+7/31/2017 2:05:52 PM	Gathering role memberships
+7/31/2017 2:05:52 PM	Gathering filegroups
+7/31/2017 2:05:52 PM	Gathering full-text catalogs
+7/31/2017 2:05:52 PM	Gathering assemblies
+7/31/2017 2:05:52 PM	Gathering certificates
+7/31/2017 2:05:52 PM	Gathering asymmetric keys
+7/31/2017 2:05:52 PM	Gathering symmetric keys
+7/31/2017 2:05:52 PM	Gathering encrypted symmetric keys
+7/31/2017 2:05:52 PM	Gathering schemas
+7/31/2017 2:06:00 PM	Gathering XML schema collections
+7/31/2017 2:06:00 PM	Gathering user-defined data types
+7/31/2017 2:06:00 PM	Gathering user-defined types
+7/31/2017 2:06:00 PM	Gathering table types
+7/31/2017 2:06:00 PM	Gathering unique keys for table types
+7/31/2017 2:06:00 PM	Gathering primary keys for table types
+7/31/2017 2:06:00 PM	Gathering indexes for table types
+7/31/2017 2:06:00 PM	Gathering check constraints for table types
+7/31/2017 2:06:00 PM	Gathering default constraints for table types
+7/31/2017 2:06:00 PM	Gathering partition functions
+7/31/2017 2:06:00 PM	Gathering partition schemes
+7/31/2017 2:06:00 PM	Gathering functions
+7/31/2017 2:06:00 PM	Gathering encrypted functions
+7/31/2017 2:06:00 PM	Gathering aggregates
+7/31/2017 2:06:00 PM	Gathering procedures
+7/31/2017 2:06:00 PM	Gathering encrypted procedures
+7/31/2017 2:06:00 PM	Gathering tables
+7/31/2017 2:06:01 PM	Gathering primary keys
+7/31/2017 2:06:01 PM	Gathering unique constraints
+7/31/2017 2:06:01 PM	Gathering foreign keys
+7/31/2017 2:06:01 PM	Gathering default constraints
+7/31/2017 2:06:01 PM	Gathering check constraints
+7/31/2017 2:06:01 PM	Gathering views
+7/31/2017 2:06:01 PM	Gathering encrypted views
+7/31/2017 2:06:01 PM	Gathering indexes
+7/31/2017 2:06:01 PM	Gathering statistics
+7/31/2017 2:06:01 PM	Gathering full-text index stoplists
+7/31/2017 2:06:01 PM	Gathering search property lists
+7/31/2017 2:06:01 PM	Gathering search properties
+7/31/2017 2:06:01 PM	Gathering full-text indexes
+7/31/2017 2:06:01 PM	Gathering column store indexes
+7/31/2017 2:06:01 PM	Gathering spatial indexes
+7/31/2017 2:06:01 PM	Gathering XML indexes
+7/31/2017 2:06:01 PM	Gathering Selective XML indexes
+7/31/2017 2:06:01 PM	Gathering encrypted triggers
+7/31/2017 2:06:01 PM	Gathering triggers
+7/31/2017 2:06:01 PM	Gathering encrypted and clr ddl triggers
+7/31/2017 2:06:01 PM	Gathering ddl triggers
+7/31/2017 2:06:01 PM	Gathering synonyms
+7/31/2017 2:06:01 PM	Gathering defaults
+7/31/2017 2:06:01 PM	Gathering data constraint uddt bindings
+7/31/2017 2:06:01 PM	Gathering rules
+7/31/2017 2:06:01 PM	Gathering data constraint uddt bindings
+7/31/2017 2:06:01 PM	Gathering message types
+7/31/2017 2:06:01 PM	Gathering queues
+7/31/2017 2:06:01 PM	Gathering contracts
+7/31/2017 2:06:01 PM	Gathering services
+7/31/2017 2:06:01 PM	Gathering event notifications
+7/31/2017 2:06:01 PM	Gathering remote service bindings
+7/31/2017 2:06:01 PM	Gathering broker priorities
+7/31/2017 2:06:01 PM	Gathering signatures
+7/31/2017 2:06:01 PM	Gathering data compression options
+7/31/2017 2:06:01 PM	Gathering sequence types
+7/31/2017 2:06:01 PM	Gathering extended properties
+7/31/2017 2:06:01 PM	Gathering credentials
+7/31/2017 2:06:01 PM	Gathering logins
+7/31/2017 2:06:01 PM	Gathering server audits
+7/31/2017 2:06:02 PM	Scanning project for duplicate elements
+7/31/2017 2:06:02 PM	Finished duplicate element processing
+7/31/2017 2:06:03 PM	Finished importing database.
+7/31/2017 2:06:03 PM	A summary of the import was saved to the following location: D:\NET\WebStore\WebStore\WebStore.Database\Import Schema Logs\WebStore.Database_20170731110545.log
+7/31/2017 2:06:03 PM	Click Finish to continue...
